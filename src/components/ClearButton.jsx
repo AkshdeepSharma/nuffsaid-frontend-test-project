@@ -6,6 +6,9 @@ const useStyles = makeStyles(() => ({
     minWidth: "100px",
     backgroundColor: "#00E2C4",
     marginLeft: "10px",
+    "&:hover": {
+      backgroundColor: "#00E2C4",
+    },
   },
 }));
 
