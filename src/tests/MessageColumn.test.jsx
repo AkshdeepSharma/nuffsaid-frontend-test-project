@@ -7,7 +7,7 @@ const testProps = {
   allObjects: [
     { message: "test1", priority: 1 },
     { message: "test2", priority: 1 },
-    { message: "test3", priority: 2 },
+    { message: "test3", priority: 3 },
   ],
   setAllObjects: () => {},
   messages: ["test1", "test2"],
